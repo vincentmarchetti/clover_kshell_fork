@@ -183,7 +183,7 @@ function place(
           (step.x * Math.PI) / 180,
           (step.y * Math.PI) / 180,
           (step.z * Math.PI) / 180,
-          "ZYX",
+          "XYZ",
         ),
       );
     node = group;
